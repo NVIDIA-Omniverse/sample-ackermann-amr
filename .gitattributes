@@ -1,0 +1,6 @@
+
+. !text !filter !merge !diff
+*.gif !text !filter !merge !diff
+*.png !text !filter !merge !diff
+*.usd !text !filter !merge !diff
+*.pth !text !filter !merge !diff

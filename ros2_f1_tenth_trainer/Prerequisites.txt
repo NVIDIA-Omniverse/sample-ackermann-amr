@@ -1,0 +1,7 @@
+sudo apt install ros-humble-vision-msgs
+sudo apt install ros-humble-ackermann-msgs
+
+pip install torch
+pip install torchvision
+pip install pynput
+
